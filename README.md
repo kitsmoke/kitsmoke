@@ -1,5 +1,11 @@
 ### Hi there 👋
+I know how to program in the following programming languages.
+- Rust
+- HTML, CSS, and Javascript
+- Lua
+- React
 
+(I use arch btw.)
 <!--
 **kitsmoke/kitsmoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
